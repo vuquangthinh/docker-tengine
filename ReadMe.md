@@ -2,7 +2,7 @@
 Dead simple Tengine (nginx alternative)
 
 
-# Example MultiStage
+# Example MultiStage with ReactJS build support
 
 ```
 FROM node:13.7 as builder
